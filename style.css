@@ -1,0 +1,39 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: 'El Messiri', sans-serif;
+}
+
+.divider {
+    margin: 100px 0;
+}
+
+.divider h1 {
+    text-align: center;
+    font-size: 5rem;
+}
+
+#sredisnja-sekcija {
+        height: 100%;
+    }
+    
+
+#cover-sredine {
+    background-image: url(Grafika/vision.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+#sredina-naslov {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        color: cornsilk;
+    }
+    
